@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
-one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+agile_web_development:
+  title: Agile Web Development With Rails
+  description: Learn the better and faster web framework for web development
+  image_url: rails.jpg
+  price: 30.00
 
-two:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+tdd:
+  title: Test-Driven Development
+  description: Testes e Design no Mundo Real (by Mauricio Aniche)
+  image_url: tdd.jpg
+  price: 29.99
